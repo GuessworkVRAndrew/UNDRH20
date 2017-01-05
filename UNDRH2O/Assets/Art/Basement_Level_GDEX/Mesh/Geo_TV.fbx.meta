@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: c355899bd83df9f40a24f21cbee46c5a
+timeCreated: 1477423596
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antennaTipHP1
+    100002: button
+    100004: button1
+    100006: button2
+    100008: button3
+    100010: button4
+    100012: button5
+    100014: buttons
+    100016: foot
+    100018: foot1
+    100020: foot2
+    100022: foot3
+    100024: foot_Group
+    100026: //RootNode
+    100028: powerCable
+    100030: screen
+    100032: tv
+    100034: tv_And_Screen
+    100036: white_Cable
+    100038: yellow_Cable
+    100040: yellow_Cable1
+    400000: antennaTipHP1
+    400002: button
+    400004: button1
+    400006: button2
+    400008: button3
+    400010: button4
+    400012: button5
+    400014: buttons
+    400016: foot
+    400018: foot1
+    400020: foot2
+    400022: foot3
+    400024: foot_Group
+    400026: //RootNode
+    400028: powerCable
+    400030: screen
+    400032: tv
+    400034: tv_And_Screen
+    400036: white_Cable
+    400038: yellow_Cable
+    400040: yellow_Cable1
+    2300000: antennaTipHP1
+    2300002: button
+    2300004: button1
+    2300006: button2
+    2300008: button3
+    2300010: button4
+    2300012: button5
+    2300014: foot
+    2300016: foot1
+    2300018: foot2
+    2300020: foot3
+    2300022: powerCable
+    2300024: screen
+    2300026: tv
+    2300028: white_Cable
+    2300030: yellow_Cable
+    2300032: yellow_Cable1
+    3300000: antennaTipHP1
+    3300002: button
+    3300004: button1
+    3300006: button2
+    3300008: button3
+    3300010: button4
+    3300012: button5
+    3300014: foot
+    3300016: foot1
+    3300018: foot2
+    3300020: foot3
+    3300022: powerCable
+    3300024: screen
+    3300026: tv
+    3300028: white_Cable
+    3300030: yellow_Cable
+    3300032: yellow_Cable1
+    4300000: white_Cable
+    4300002: yellow_Cable
+    4300004: powerCable
+    4300006: yellow_Cable1
+    4300008: tv
+    4300010: screen
+    4300012: button
+    4300014: button1
+    4300016: button2
+    4300018: button4
+    4300020: button3
+    4300022: button5
+    4300024: foot1
+    4300026: foot
+    4300028: foot3
+    4300030: foot2
+    4300032: antennaTipHP1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
